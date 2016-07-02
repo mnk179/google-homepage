@@ -52,7 +52,7 @@ body {
 
 #top_navbar .link a {
 	text-decoration: none;
-	color: #222;
+	color: rgb(34, 34, 34);
 }
 
 #top_navbar .link a:hover {
@@ -63,8 +63,7 @@ body {
 	padding: 0 0;
 	position: relative;
 	margin: 0 10px;
-	/*top: 50%;
-	transform: translateY(-50%);*/
+	vertical-align: middle;
 }
 
 #top_navbar #grid_icon img {
